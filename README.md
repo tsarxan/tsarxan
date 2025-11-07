@@ -1,6 +1,6 @@
-Hello my name is *xanax* and I consider myself as a software dev.
+Hello my name is ***Che*** and I consider myself a software dev.
 
-If you want to message me you can do that on discord @ `xanax.everywhere`
+If you want to message me you can do that on discord @ `luaL_loadbuffer`
 
 
 #### IDEs, Editors & Tools
