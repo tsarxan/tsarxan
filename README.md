@@ -1,7 +1,9 @@
-Hello my name is Che (pronounced /ʃeɪ/) and I consider myself a software dev. I have had multiple (terminated & deleted) GitHubs in the past and my primary discord is `lual_loadbuffer`. I don't work for anyone currently (as in company wise) and I'm available for commission for anything UI or Cheating related.
+Hello my name is Che (pronounced /ʃeɪ/) and I consider myself a software dev. I have had multiple (terminated & deleted) GitHubs in the past and my primary discord is `lual_loadbuffer`.
 
 
-I don't participate in malicious activities such as ratting, backdoors, etc. However one could say I do; I couldn't care less I did do it, what would you do?
+I don't work for anyone currently (as in company wise) and I'm available for commission for anything UI or Cheating related.
+
+I don't participate in malicious activities such as ratting, backdoors, etc. However one could say I do; I couldn't care less if I even did do it, what would you do?
 
 
 #### IDEs, Editors & Tools
