@@ -1,4 +1,4 @@
-Hello my name is Che (pronounced /ʃeɪ/) and I consider myself a software dev. I have had multiple (terminated & deleted) GitHubs in the past and my primary discord is `lual_loadbuffer`.
+Hello my name is Che (pronounced /ʃeɪ/) and I consider myself a software dev. I have had multiple (terminated & deleted) GitHubs in the past and my primary discord is `.aarch32`.
 
 
 I don't work for anyone currently (as in company wise) and I'm available for commission for anything UI or Cheating related.
